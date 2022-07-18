@@ -1,0 +1,9 @@
+com\w2a\pages\cliq\CliqHomePage.class
+com\w2a\pages\HomePage.class
+com\w2a\pages\LoginPage.class
+com\w2a\utilities\ExcelReader.class
+com\w2a\pages\cliq\JoinExistingBusiness.class
+com\w2a\pages\ZohoAppPage.class
+com\w2a\utilities\Utilities.class
+com\w2a\base\Page.class
+com\w2a\pages\cliq\SetupYourBusiness.class

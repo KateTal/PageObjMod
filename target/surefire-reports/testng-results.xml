@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[click to see Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Tue_Jul_19_00_50_59_MSK_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Tue_Jul_19_00_50_59_MSK_2022.jpg><img scr=Tue_Jul_19_00_50_59_MSK_2022.jpgheight=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Page Object Model" duration-ms="3514" started-at="2022-07-19T00:50:56 MSK" finished-at="2022-07-19T00:50:59 MSK">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="3514" started-at="2022-07-19T00:50:56 MSK" finished-at="2022-07-19T00:50:59 MSK">
+      <class name="com.w2a.testcases.LoginTest">
+        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.LoginTest@7cf7aee]" name="loginTest" duration-ms="3266" started-at="2022-07-19T00:50:56 MSK" data-provider="dp" finished-at="2022-07-19T00:50:59 MSK">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Qwerty123/, runmode=Y, username=livia2008@yandex.ru}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[click to see Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Tue_Jul_19_00_50_59_MSK_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Tue_Jul_19_00_50_59_MSK_2022.jpg><img scr=Tue_Jul_19_00_50_59_MSK_2022.jpgheight=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.LoginTest@7cf7aee]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-07-19T00:50:59 MSK" finished-at="2022-07-19T00:50:59 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.testcases.LoginTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Page Object Model -->
+</testng-results>
