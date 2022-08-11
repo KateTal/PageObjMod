@@ -5,21 +5,21 @@
       <![CDATA[click to see Screenshot]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href=Tue_Jul_19_00_50_59_MSK_2022.jpg>Screenshot</a>]]>
+      <![CDATA[<a target="_blank" href=Wed_Aug_10_22_16_05_MSK_2022.jpg>Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href=Tue_Jul_19_00_50_59_MSK_2022.jpg><img scr=Tue_Jul_19_00_50_59_MSK_2022.jpgheight=200 width=200></img></a>]]>
+      <![CDATA[<a target="_blank" href=Wed_Aug_10_22_16_05_MSK_2022.jpg><img scr=Wed_Aug_10_22_16_05_MSK_2022.jpgheight=200 width=200></img></a>]]>
     </line>
   </reporter-output>
-  <suite name="Page Object Model" duration-ms="3514" started-at="2022-07-19T00:50:56 MSK" finished-at="2022-07-19T00:50:59 MSK">
+  <suite name="Page Object Model" duration-ms="3853" started-at="2022-08-10T22:16:01 MSK" finished-at="2022-08-10T22:16:05 MSK">
     <groups>
     </groups>
-    <test name="Login Test" duration-ms="3514" started-at="2022-07-19T00:50:56 MSK" finished-at="2022-07-19T00:50:59 MSK">
+    <test name="Login Test" duration-ms="3853" started-at="2022-08-10T22:16:01 MSK" finished-at="2022-08-10T22:16:05 MSK">
       <class name="com.w2a.testcases.LoginTest">
-        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.LoginTest@7cf7aee]" name="loginTest" duration-ms="3266" started-at="2022-07-19T00:50:56 MSK" data-provider="dp" finished-at="2022-07-19T00:50:59 MSK">
+        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.LoginTest@1d269ed7]" name="loginTest" duration-ms="3448" started-at="2022-08-10T22:16:01 MSK" data-provider="dp" finished-at="2022-08-10T22:16:05 MSK">
           <params>
             <param index="0">
               <value>
@@ -32,17 +32,17 @@
               <![CDATA[click to see Screenshot]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href=Tue_Jul_19_00_50_59_MSK_2022.jpg>Screenshot</a>]]>
+              <![CDATA[<a target="_blank" href=Wed_Aug_10_22_16_05_MSK_2022.jpg>Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href=Tue_Jul_19_00_50_59_MSK_2022.jpg><img scr=Tue_Jul_19_00_50_59_MSK_2022.jpgheight=200 width=200></img></a>]]>
+              <![CDATA[<a target="_blank" href=Wed_Aug_10_22_16_05_MSK_2022.jpg><img scr=Wed_Aug_10_22_16_05_MSK_2022.jpgheight=200 width=200></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.LoginTest@7cf7aee]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-07-19T00:50:59 MSK" finished-at="2022-07-19T00:50:59 MSK">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.LoginTest@1d269ed7]" name="tearDown" is-config="true" duration-ms="2" started-at="2022-08-10T22:16:05 MSK" finished-at="2022-08-10T22:16:05 MSK">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
